@@ -2,7 +2,9 @@
 
 # DiffHammer :hammer:
 Official implementation of the NeurIPS 2024 paper:
+
 **[DiffHammer: Rethinking the Robustness of Diffusion-Based Adversarial Purification](https://neurips.cc/virtual/2024/poster/94646)**
+
 > **TL;DR**: An adaptive attack on diffusion-based purification that avoids gradient dilemmas by using selective attacks and enhances efficiency through gradient grafting.
 
 ![DiffHammer](<resources/figure/plot.jpg>)
